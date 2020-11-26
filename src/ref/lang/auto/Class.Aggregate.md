@@ -69,7 +69,7 @@ Fetches and computes data from a database.
 <td></td>
 <td>Yes</td>
 <td>At start</td>
-<td></td>
+<td>If set "At start" this aggregate will run when the page loads. If set "Only on demand" it won't, you'll need to explicitly call a Refresh Aggregate.</td>
 </tr>
 <tr class="separator">
 <th colspan="5">Events</th>
