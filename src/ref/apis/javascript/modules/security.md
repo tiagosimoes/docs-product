@@ -5,7 +5,8 @@ summary: Provides methods for doing client side role checks. Used to programmati
 
 # Security
 
-Provides methods for doing client side role checks. Used to programmatically show or hide UI elements depending on a given role.
+Provides methods for doing client side role checks. Used to programmatically show or hide UI elements depending on a given role. 
+ATTENTION: As with anything on the client-side, this methods can be easily tricked, so if you use them you also need to secure the server side. [Read more about security here](https://success.outsystems.com/Documentation/Best_Practices/Security/Reactive_web_security_best_practices).
 
 ## Summary
 
